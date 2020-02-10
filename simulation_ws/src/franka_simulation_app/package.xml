@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>franka_simulation_app</name>
+  <version>0.0.1</version>
+  <description>
+  </description>
+  <license>MIT</license>
+  <author email="ros-contributions@amazon.com">AWS RoboMaker</author>
+  <maintainer email="ros-contributions@amazon.com">AWS RoboMaker</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+</package>
